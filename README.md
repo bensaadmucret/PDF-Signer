@@ -88,13 +88,46 @@ pdf_signer/
 
 ## Contribution
 
-Les contributions sont les bienvenues ! N'hésitez pas à :
+Les contributions sont les bienvenues ! Voici comment contribuer :
 
-1. Fork le projet
-2. Créer une branche pour votre fonctionnalité (`git checkout -b feature/AmazingFeature`)
-3. Commit vos changements (`git commit -m 'Add some AmazingFeature'`)
-4. Push sur la branche (`git push origin feature/AmazingFeature`)
-5. Ouvrir une Pull Request
+1. Forkez le projet ([Cliquez ici pour fork](https://github.com/bensaadmucret/PDF-Signer/fork))
+2. Clonez votre fork
+   ```bash
+   git clone https://github.com/votre-username/PDF-Signer.git
+   cd PDF-Signer
+   ```
+3. Créez votre branche de fonctionnalité
+   ```bash
+   git checkout -b feature/ma-super-fonctionnalite
+   ```
+4. Committez vos changements
+   ```bash
+   git add .
+   git commit -m 'feat: Ajout de ma super fonctionnalité'
+   ```
+5. Poussez vers la branche
+   ```bash
+   git push origin feature/ma-super-fonctionnalite
+   ```
+6. Ouvrez une Pull Request ([Créer une nouvelle Pull Request](https://github.com/bensaadmucret/PDF-Signer/compare))
+
+### Convention de nommage des commits
+
+Utilisez les préfixes suivants pour vos commits :
+- `feat:` pour une nouvelle fonctionnalité
+- `fix:` pour une correction de bug
+- `docs:` pour la documentation
+- `style:` pour le formatage du code
+- `refactor:` pour une refactorisation du code
+- `test:` pour l'ajout ou la modification de tests
+- `chore:` pour la maintenance du code
+
+### Guide de contribution
+
+- Assurez-vous que votre code respecte les standards de codage Python (PEP 8)
+- Ajoutez des commentaires pour le code complexe
+- Mettez à jour la documentation si nécessaire
+- Testez vos modifications avant de soumettre une PR
 
 ## Licence
 
