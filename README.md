@@ -2,6 +2,16 @@
 
 Une application de bureau simple et élégante pour signer vos documents PDF. Développée avec Python et PyQt6.
 
+## Avantages de la signature locale 🔒
+
+- **Confidentialité maximale** : Vos documents restent sur votre ordinateur, aucun envoi vers des serveurs externes
+- **Sécurité** : Pas de risque de fuite de données, tout est traité localement
+- **Rapidité** : Pas besoin de connexion internet, signature instantanée
+- **Gratuit** : Aucun abonnement ou frais cachés, contrairement aux services en ligne
+- **Hors ligne** : Fonctionne sans connexion internet
+- **Pas de limite** : Signez autant de documents que vous voulez
+- **Protection des données** : Conforme RGPD car aucune donnée n'est collectée
+
 ![Capture d'écran de l'application](screenshot.png)
 
 ## Fonctionnalités
