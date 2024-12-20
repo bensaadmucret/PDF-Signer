@@ -1,5 +1,7 @@
 # PDF Signer
 
+[English version](README.en.md)
+
 Une application de bureau simple et élégante pour signer vos documents PDF. Développée avec Python et PyQt6.
 
 ## Avantages de la signature locale 🔒
@@ -93,7 +95,7 @@ Les contributions sont les bienvenues ! Voici comment contribuer :
 1. Forkez le projet ([Cliquez ici pour fork](https://github.com/bensaadmucret/PDF-Signer/fork))
 2. Clonez votre fork
    ```bash
-   git clone https://github.com/votre-username/PDF-Signer.git
+   git clone https://github.com/bensaadmucret/PDF-Signer.git
    cd PDF-Signer
    ```
 3. Créez votre branche de fonctionnalité
