@@ -92,6 +92,6 @@ Distribué sous la licence MIT. Voir `LICENSE` pour plus d'informations.
 
 ## Contact
 
-Votre nom - [@votre_twitter](https://twitter.com/votre_twitter)
+Mohamed BENSAAD
 
-Lien du projet : [https://github.com/votre_nom/pdf_signer](https://github.com/votre_nom/pdf_signer)
+Lien du projet : [https://github.com/bensaadmucret/PDF-Signer](https://github.com/bensaadmucret/PDF-Signer)
